@@ -1,1 +1,2 @@
 A test file used to test the basics of GitHub
+This is a pretty great file.
