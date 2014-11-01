@@ -4,4 +4,6 @@ new website for the official CSB/SJU news publication, the Record. Our goal is t
 best serves the interests of the student body through value of journalistic communication. We are interested 
 in developing an easy-to-use user interface that maximizes the user's experience. We serve both the editors of 
 this fine publication and it's loyal readers. We are also awesome.
+
+Perhaps this is not as difficult as I thought...
 ==============
