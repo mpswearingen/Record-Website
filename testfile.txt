@@ -1,1 +1,1 @@
-A test file used to test the basucs of GitHub
+A test file used to test the basics of GitHub
